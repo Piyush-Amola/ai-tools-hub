@@ -1,0 +1,500 @@
+{
+  "general_purpose_ai": [
+    {
+      "icon": "./image/chatgpt.png",
+      "name": "ChatGPT",
+      "description": "AI chatbot developed by OpenAI for conversations and tasks.",
+      "link": "https://chat.openai.com/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/googlegemini",
+      "name": "Gemini",
+      "description": "Google's AI assistant for productivity and research.",
+      "link": "https://gemini.google.com/"
+    },
+    {
+      "icon": "./image/copilot.png",
+      "name": "Copilot",
+      "description": "Microsoft AI assistant integrated with Windows and Office.",
+      "link": "https://www.microsoft.com/copilot"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/anthropic",
+      "name": "Claude",
+      "description": "AI assistant by Anthropic focused on safety and reasoning.",
+      "link": "https://claude.ai/"
+    },
+    {
+      "icon": "./image/characterai.png",
+      "name": "Character AI",
+      "description": "Chat with AI characters and personalities.",
+      "link": "https://character.ai/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/perplexity",
+      "name": "Perplexity",
+      "description": "AI-powered search engine with conversational answers.",
+      "link": "https://www.perplexity.ai/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/poe",
+      "name": "Poe",
+      "description": "Platform by Quora to access multiple AI models.",
+      "link": "https://poe.com/"
+    },
+    {
+      "icon": "https://play-lh.googleusercontent.com/Ef7is-Xonqhs2agdsGarpTS_c1Is6Yvk-JhnL3qNvU1Nwdc7kn6Dml2IuCqlfa9Nuzk",
+      "name": "Pi",
+      "description": "Personal AI focused on conversation and emotional support.",
+      "link": "https://pi.ai/"
+    },
+    {
+      "icon": "./image/you.com",
+      "name": "You.com",
+      "description": "AI-powered search engine with chat-based search.",
+      "link": "https://you.com/"
+    },
+    {
+      "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F10web.io%2Fwp-content%2Fuploads%2F2024%2F07%2FPhind.png&f=1&nofb=1&ipt=d3a9e47410724ceade2e413b9e29b478158bdf4169708774763bd55325161788",
+      "name": "Phind",
+      "description": "AI search engine designed for developers.",
+      "link": "https://phindai.org/"
+    }
+  ],
+  "writing_editing": [
+    {
+      "icon": "https://cdn.simpleicons.org/grammarly",
+      "name": "Grammarly",
+      "description": "AI writing assistant for grammar, spelling, and clarity.",
+      "link": "https://www.grammarly.com/"
+    },
+    {
+      "icon": "./image/QuillBot.png",
+      "name": "QuillBot",
+      "description": "AI paraphrasing and writing improvement tool.",
+      "link": "https://quillbot.com/"
+    },
+    {
+      "icon": "./image/jasperai.png",
+      "name": "Jasper",
+      "description": "AI content generation platform for marketing and blogs.",
+      "link": "https://www.jasper.ai/"
+    },
+    {
+      "icon": "./image/writesonic.jpg",
+      "name": "Writesonic",
+      "description": "AI writing tool for articles, ads, and marketing copy.",
+      "link": "https://writesonic.com/"
+    },
+    {
+      "icon": "./image/copy.jpg",
+      "name": "Copy.ai",
+      "description": "AI copywriting tool for marketing content, emails, and ads.",
+      "link": "https://www.copy.ai/"
+    },
+    {
+      "icon": "./image/Pro_Writing.png  ",
+      "name": "ProWritingAid",
+      "description": "Grammar checker and writing style improvement tool.",
+      "link": "https://prowritingaid.com/"
+    },
+    {
+      "icon": "./image/Hemingway.png",
+      "name": "Hemingway Editor",
+      "description": "Improves readability and clarity of writing.",
+      "link": "https://hemingwayapp.com/"
+    },
+    {
+      "icon": "./image/Writer.png",
+      "name": "Writer",
+      "description": "AI writing platform for teams and businesses.",
+      "link": "https://writer.com/"
+    },
+    {
+      "icon": "./image/Linguix.png",
+      "name": "Linguix",
+      "description": "AI grammar and writing assistant for professionals.",
+      "link": "https://linguix.com/"
+    },
+    {
+      "icon": "./image/Ginger.png",
+      "name": "Ginger",
+      "description": "Grammar checker and sentence rephraser.",
+      "link": "https://www.gingersoftware.com/"
+    }
+  ],
+
+  "research_knowledge": [
+    {
+      "icon": "https://cdn.simpleicons.org/perplexity",
+      "name": "Perplexity",
+      "description": "AI-powered search engine providing concise, conversational answers to queries.",
+      "link": "https://www.perplexity.ai/"
+    },
+    {
+      "icon": "./image/you.com",
+      "name": "You.com",
+      "description": "AI-driven search platform with chat-based and personalized search features.",
+      "link": "https://you.com/"
+    },
+    {
+      "icon": "./image/semantic Scholar.jpg",
+      "name": "Semantic Scholar",
+      "description": "AI-powered academic search engine for research papers and citations.",
+      "link": "https://www.semanticscholar.org/"
+    },
+    {
+      "icon": "./image/Consensus.png",
+      "name": "Consensus",
+      "description": "AI tool that summarizes research findings and scientific papers.",
+      "link": "https://consensus.app/"
+    },
+    {
+      "icon": "./image/Scite.png",
+      "name": "Scite",
+      "description": "AI platform analyzing citation context and reliability of scientific papers.",
+      "link": "https://scite.ai/"
+    },
+    {
+      "icon": "./image/Research Rabbit.png",
+      "name": "Research Rabbit",
+      "description": "Tool for discovering and visualizing connections between research papers.",
+      "link": "https://researchrabbit.ai/"
+    },
+    {
+      "icon": "./image/Connected Papers.png",
+      "name": "Connected Papers",
+      "description": "Visual tool to explore relationships between academic research papers.",
+      "link": "https://www.connectedpapers.com/"
+    },
+
+    {
+      "icon": "./image/iris-ai-logo.png",
+      "name": "Iris.ai",
+      "description": "AI platform for deep literature reviews and scientific research analysis.",
+      "link": "https://iris.ai/"
+    },
+    {
+      "icon": "./image/Typeset.jpg",
+      "name": "Typeset",
+      "description": "AI-powered research writing and formatting platform for academic papers.",
+      "link": "https://typeset.io/"
+    },
+    {
+      "icon": "./image/elicit.png",
+      "name": "Elicit",
+      "description": "AI research assistant that helps find, summarize, and extract insights from academic papers.",
+      "link": "https://elicit.com/"
+    }
+  ],
+  "image_design": [
+    {
+      "icon": "./image/Midjourney.png",
+      "name": "Midjourney",
+      "description": "AI image generation tool for creating artistic visuals from text prompts.",
+      "link": "https://www.midjourney.com/"
+    },
+    {
+      "icon": "./image/DALL·E.png",
+      "name": "DALL·E",
+      "description": "OpenAI’s AI model for generating images from text descriptions.",
+      "link": "https://openai.com/dall-e"
+    },
+    {
+      "icon": "./image/Canva.jpg",
+      "name": "Canva",
+      "description": "Design platform with AI tools for graphics, presentations, and social media content.",
+      "link": "https://www.canva.com/"
+    },
+    {
+      "icon": "./image/Runway.jpg",
+      "name": "Runway",
+      "description": "AI-powered creative suite for generating and editing images and videos.",
+      "link": "https://runwayml.com/"
+    },
+    {
+      "icon": "./image/Leonardo.png",
+      "name": "Leonardo AI",
+      "description": "AI platform for creating game assets, digital art, and visual content.",
+      "link": "https://leonardo.ai/"
+    },
+    {
+      "icon": "./image/craiyon.png",
+      "name": "Craiyon",
+      "description": "Free AI image generator from text prompts, formerly known as DALL·E Mini.",
+      "link": "https://www.craiyon.com/"
+    },
+    {
+      "icon": "./image/DreamStudio.png",
+      "name": "DreamStudio",
+      "description": "Stable Diffusion-based platform for AI image generation.",
+      "link": "https://dreamstudio.ai/"
+    },
+    {
+      "icon": "./image/Adobe Firefly.png",
+      "name": "Adobe Firefly",
+      "description": "Adobe’s generative AI for creative image and design workflows.",
+      "link": "https://firefly.adobe.com/"
+    },
+    {
+      "icon": "./image/Ideogram.png",
+      "name": "Ideogram",
+      "description": "AI image generator specializing in text-to-image designs.",
+      "link": "https://ideogram.ai/"
+    },
+    {
+      "icon": "./image/Artbreeder.jpg",
+      "name": "Artbreeder",
+      "description": "AI platform to create and evolve images collaboratively.",
+      "link": "https://www.artbreeder.com/"
+    }
+  ],
+  "video_audio": [
+    {
+      "icon": "./image/Descript.png",
+      "name": "Descript",
+      "description": "All-in-one audio and video editing platform with AI features like transcription and overdub.",
+      "link": "https://www.descript.com/"
+    },
+    {
+      "icon": "./image/Synthesia.png",
+      "name": "Synthesia",
+      "description": "AI video generation platform to create videos with virtual avatars from text.",
+      "link": "https://www.synthesia.io/"
+    },
+    {
+      "icon": "./image/Lumen5.gif",
+      "name": "Lumen5",
+      "description": "AI-powered video creation platform for turning text content into engaging videos.",
+      "link": "https://lumen5.com/"
+    },
+    {
+      "icon": "./image/pictoryai_logo.jpg",
+      "name": "Pictory",
+      "description": "AI tool to automatically create short videos from long-form content.",
+      "link": "https://pictory.ai/"
+    },
+    {
+      "icon": "./image/invideo.png",
+      "name": "InVideo",
+      "description": "Online video editor with AI-assisted templates and content creation.",
+      "link": "https://invideo.io/"
+    },
+    {
+      "icon": "./image/Runway.jpg",
+      "name": "Runway",
+      "description": "AI-powered video editing and generation platform for creators.",
+      "link": "https://runwayml.com/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/veed",
+      "name": "Veed.io",
+      "description": "Online video editor with AI tools for subtitles, translations, and effects.",
+      "link": "https://www.veed.io/"
+    },
+    {
+      "icon": "./image/kapwing.png",
+      "name": "Kapwing",
+      "description": "Collaborative online video editor with AI-powered editing features.",
+      "link": "https://www.kapwing.com/"
+    },
+    {
+      "icon": "./image/Stability.png",
+      "name": "Stable Audio",
+      "description": "AI platform for generating and editing audio content.",
+      "link": "https://stableaudio.ai/"
+    },
+    {
+      "icon": "./image/Murf_AI.jpg",
+      "name": "Murf",
+      "description": "AI voice generator and text-to-speech platform for professional audio production.",
+      "link": "https://murf.ai/"
+    }
+  ],
+  "coding_development": [
+    {
+      "icon": "https://cdn.simpleicons.org/githubcopilot",
+      "name": "GitHub Copilot",
+      "description": "AI coding assistant that suggests code and helps developers write software faster.",
+      "link": "https://github.com/features/copilot"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/replit",
+      "name": "Replit",
+      "description": "Online development environment with AI tools for coding and deployment.",
+      "link": "https://replit.com/"
+    },
+    {
+      "icon": "./image/Tabnine.png",
+      "name": "Tabnine",
+      "description": "AI-powered code completion assistant for developers.",
+      "link": "https://www.tabnine.com/"
+    },
+    {
+      "icon": "./image/Codeium.png",
+      "name": "Codeium",
+      "description": "Free AI coding assistant for code completion and chat.",
+      "link": "https://codeium.com/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/cursor",
+      "name": "Cursor",
+      "description": "AI-first code editor designed for faster software development.",
+      "link": "https://cursor.sh/"
+    },
+    {
+      "icon": "./image/Phind.png",
+      "name": "Phind",
+      "description": "AI-powered search engine designed for developers and programming questions.",
+      "link": "https://www.phind.com/"
+    },
+    {
+      "icon": "./image/Amazon Q.jpg",
+      "name": "Amazon Q",
+      "description": "Generative AI assistant by AWS for developers and cloud tasks.",
+      "link": "https://aws.amazon.com/q/"
+    },
+    {
+      "icon": "./image/Sourcegraph.png",
+      "name": "Sourcegraph",
+      "description": "AI-powered code search and intelligence platform for developers.",
+      "link": "https://sourcegraph.com/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/vscodium",
+      "name": "VSCodium",
+      "description": "Open-source version of Visual Studio Code without Microsoft telemetry.",
+      "link": "https://vscodium.com/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/snyk",
+      "name": "Snyk DeepCode",
+      "description": "AI-powered code security and vulnerability detection tool.",
+      "link": "https://snyk.io/platform/deepcode-ai/"
+    }
+  ],
+  "productivity_business": [
+    {
+      "icon": "https://cdn.simpleicons.org/zapier",
+      "name": "Zapier",
+      "description": "Automation platform that connects apps and automates workflows.",
+      "link": "https://zapier.com/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/notion",
+      "name": "Notion",
+      "description": "All-in-one workspace for notes, documents, and project management.",
+      "link": "https://www.notion.so/"
+    },
+    {
+      "icon": "./image/otter.jpg",
+      "name": "Otter.ai",
+      "description": "AI meeting assistant that records and transcribes conversations.",
+      "link": "https://otter.ai/"
+    },
+    {
+      "icon": "./image/OIP.jpg",
+      "name": "Fireflies.ai",
+      "description": "AI tool for recording, transcribing, and summarizing meetings.",
+      "link": "https://fireflies.ai/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/clickup",
+      "name": "ClickUp",
+      "description": "Project management and productivity platform for teams.",
+      "link": "https://clickup.com/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/asana",
+      "name": "Asana",
+      "description": "Task and project management tool for organizing team work.",
+      "link": "https://asana.com/"
+    },
+    {
+      "icon": "./image/Taskade.jpg",
+      "name": "Taskade",
+      "description": "AI productivity workspace for tasks, notes, and collaboration.",
+      "link": "https://taskade.com/"
+    },
+    {
+      "icon": "./image/mem-ai.jpg",
+      "name": "Mem",
+      "description": "AI-powered note-taking and knowledge management tool.",
+      "link": "https://mem.ai/"
+    },
+    {
+      "icon": "./image/Motion.jpg",
+      "name": "Motion",
+      "description": "AI scheduling and productivity tool that automatically plans tasks.",
+      "link": "https://www.usemotion.com/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/trello",
+      "name": "Trello",
+      "description": "Visual project management tool that uses boards, lists, and cards to organize tasks and workflows.",
+      "link": "https://trello.com/"
+    }
+  ],
+  "ai_developer_platforms": [
+    {
+      "icon": "/image/OpenAI API.png",
+      "name": "OpenAI API",
+      "description": "API platform for accessing OpenAI models for AI applications.",
+      "link": "https://platform.openai.com/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/googlecloud",
+      "name": "Google Cloud AI",
+      "description": "Google's cloud-based AI and machine learning services.",
+      "link": "https://cloud.google.com/ai"
+    },
+    {
+      "icon": "./image/Azure.png",
+      "name": "Azure AI",
+      "description": "Microsoft Azure platform for building and deploying AI solutions.",
+      "link": "https://azure.microsoft.com/en-us/products/ai-services/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/anthropic",
+      "name": "Anthropic API",
+      "description": "API access to Claude models for AI development.",
+      "link": "https://www.anthropic.com/api"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/huggingface",
+      "name": "Hugging Face",
+      "description": "Open-source platform for machine learning models and datasets.",
+      "link": "https://huggingface.co/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/replicate",
+      "name": "Replicate",
+      "description": "Platform to run and deploy machine learning models via API.",
+      "link": "https://replicate.com/"
+    },
+    {
+      "icon": "./image/Cohere.png",
+      "name": "Cohere",
+      "description": "AI platform providing language models for developers.",
+      "link": "https://cohere.com/"
+    },
+    {
+      "icon": "./image/Together.jpg",
+      "name": "Together AI",
+      "description": "Platform for running and training open-source AI models.",
+      "link": "https://www.together.ai/"
+    },
+    {
+      "icon": "./image/Stability.png",
+      "name": "Stability AI",
+      "description": "Company behind Stable Diffusion and open generative AI models.",
+      "link": "https://stability.ai/"
+    },
+    {
+      "icon": "https://cdn.simpleicons.org/vercel",
+      "name": "Vercel AI SDK",
+      "description": "Developer toolkit for integrating AI features into web apps.",
+      "link": "https://sdk.vercel.ai/"
+    }
+  ]
+}
